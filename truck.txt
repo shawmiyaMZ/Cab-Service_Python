@@ -1,0 +1,18 @@
+Number Plate : 62132
+Available
+Truck Type : Bandito , Size : 7ft
+
+
+Number Plate : 34112
+Available
+Truck Type : Sachina , Size : 12ft
+
+
+Number Plate : D45H12
+Available
+Truck Type : Rambo , Size : 12ft
+
+
+Number Plate : ZS900
+Available
+Truck Type : Betty , Size : 7ft

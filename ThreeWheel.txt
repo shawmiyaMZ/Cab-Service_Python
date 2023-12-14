@@ -1,0 +1,18 @@
+Number Plate : GF468
+UnAvailable
+Three Wheeler Type : Bajaj , Number of Passangers : 3                                           
+
+
+Number Plate : DZ3400
+Available
+Three Wheeler Type : Trishaws , Number of Passangers : 3
+
+
+Number Plate : WP0976
+Available
+Three Wheeler Type : Tuk-Tuk , Number of Passangers : 3
+
+
+Number Plate : 09872
+Available
+Three Wheeler Type : Bajaj , Number of Passangers : 3

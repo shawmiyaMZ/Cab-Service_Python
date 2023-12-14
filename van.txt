@@ -1,0 +1,18 @@
+
+Available
+Car Type : Suzuki , Number of Passangers : 6 , A/C Facility : Non-AC
+
+
+Number Plate : FI95J
+Available
+Car Type : Toyota , Number of Passangers : 8 , A/C Facility : Ac
+
+
+Number Plate : 438811
+Available
+Car Type : Ford , Number of Passangers : 8 , A/C Facility : Non-AC
+
+
+Number Plate : T66DEP
+Available
+Car Type : Volkswagen , Number of Passangers : 6 , A/C Facility : AC

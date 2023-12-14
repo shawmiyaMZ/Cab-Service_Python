@@ -1,0 +1,20 @@
+Number Plate : TAV345
+Available
+Lorry Type : TATA , Max Load : 3500kg
+
+
+Number Plate : 187YT
+Available
+Lorry Type : Furniture , Max Load : 2500kg
+
+
+Number Plate : MX4ER
+Available
+Lorry Type : ISUZU , Max Load : 3500kg
+
+
+Number Plate : P985Q
+Available
+Lorry Type : Chiller , Max Load : 2500kg
+
+
